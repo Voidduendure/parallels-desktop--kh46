@@ -1,4 +1,4 @@
-
+Enhance Parallels Desktop for macOS with new Parallels Desktop for macOS Module | file-indexing + screenshot-tools, the #1 module. Includes file-indexing and screenshot-tools for
 
 
 
